@@ -104,7 +104,7 @@
             <div class="col-md-6 col-sm-12">
                 <div class="event-text-img mt-40">
                     <div class="event-img3">
-                        <a href="#"><img src="{{ Theme::asset('img/blog/7.jpg') }}" alt=""></a>
+                        <a href="#"><img src="{{ Theme::asset('img/blog/4.jpg') }}" alt=""></a>
                         <div class="event-date">
                             <span class="tb-publish">29</span>
                             <span class="tb-publish2">Oct</span>
@@ -136,7 +136,7 @@
             <div class="col-md-6 col-sm-12">
                 <div class="event-text-img mt-40">
                     <div class="event-img3">
-                        <a href="#"><img src="{{ Theme::asset('img/blog/24.jpg') }}" alt=""></a>
+                        <a href="#"><img src="{{ Theme::asset('img/blog/5.jpg') }}" alt=""></a>
                         <div class="event-date">
                             <span class="tb-publish">27</span>
                             <span class="tb-publish2">Oct</span>
@@ -168,7 +168,7 @@
             <div class="col-md-6 col-sm-12">
                 <div class="event-text-img mt-40">
                     <div class="event-img3">
-                        <a href="#"><img src="{{ Theme::asset('img/blog/25.jpg') }}" alt=""></a>
+                        <a href="#"><img src="{{ Theme::asset('img/blog/6.jpg') }}" alt=""></a>
                         <div class="event-date">
                             <span class="tb-publish">29</span>
                             <span class="tb-publish2">Oct</span>

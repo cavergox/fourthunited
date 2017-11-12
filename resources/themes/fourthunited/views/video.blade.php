@@ -8,10 +8,10 @@
             <div class="col-md-4 col-lg-3 col-sm-6">
                 <div class="blog-all mrg-xs">
                     <div class="blog-img">
-                        <a href="#"><img src="{{ Theme::asset   ('img/gallery/gallery.jpg') }}" alt="" ></a>
+                        <a href="#"><img src="{{ Theme::asset   ('img/video/video.jpg') }}" alt="" ></a>
                     </div>
                     <div class="blog-details gray-bg">
-                        <h3><a href="#">Album Gallery</a></h3>
+                        <h3><a href="#">Sample Video</a></h3>
                         <p>Lorem ipsum dolor sit amet, consect elit, sed do eiusmod </p>
                         
                     </div>
@@ -20,10 +20,10 @@
             <div class="col-md-4 col-lg-3 col-sm-6">
                 <div class="blog-all mrg-xs">
                     <div class="blog-img">
-                        <a href="#"><img src="{{ Theme::asset   ('img/gallery/gallery.jpg') }}" alt="" ></a>
+                        <a href="#"><img src="{{ Theme::asset   ('img/video/video.jpg') }}" alt="" ></a>
                     </div>
                     <div class="blog-details gray-bg">
-                        <h3><a href="#">Album Gallery </a></h3>
+                        <h3><a href="#">Sample Video </a></h3>
                         <p>Lorem ipsum dolor sit amet, consect elit, sed do eiusmod </p>
                         
                     </div>
@@ -32,10 +32,10 @@
             <div class="col-md-4 col-lg-3 col-sm-6">
                 <div class="blog-all mrg-xs">
                     <div class="blog-img">
-                        <a href="#"><img src="{{ Theme::asset   ('img/gallery/gallery.jpg') }}" alt="" ></a>
+                        <a href="#"><img src="{{ Theme::asset   ('img/video/video.jpg') }}" alt="" ></a>
                     </div>
                     <div class="blog-details gray-bg">
-                        <h3><a href="#">Album Gallery</a></h3>
+                        <h3><a href="#">Sample Video</a></h3>
                         <p>Lorem ipsum dolor sit amet, consect elit, sed do eiusmod </p>
                         
                     </div>
@@ -44,10 +44,10 @@
             <div class="col-md-4 col-lg-3 col-sm-6">
                 <div class="blog-all mrg-xs">
                     <div class="blog-img">
-                        <a href="#"><img src="{{ Theme::asset   ('img/gallery/gallery.jpg') }}" alt="" ></a>
+                        <a href="#"><img src="{{ Theme::asset   ('img/video/video.jpg') }}" alt="" ></a>
                     </div>
                     <div class="blog-details gray-bg">
-                        <h3><a href="#">Album Gallery</a></h3>
+                        <h3><a href="#">Sample Video</a></h3>
                         <p>Lorem ipsum dolor sit amet, consect elit, sed do eiusmod </p>
                         
                     </div>
@@ -56,10 +56,10 @@
             <div class="col-md-4 col-lg-3 col-sm-6">
                 <div class="blog-all mrg-xs">
                     <div class="blog-img">
-                        <a href="#"><img src="{{ Theme::asset   ('img/gallery/gallery.jpg') }}" alt="" ></a>
+                        <a href="#"><img src="{{ Theme::asset   ('img/video/video.jpg') }}" alt="" ></a>
                     </div>
                     <div class="blog-details gray-bg">
-                        <h3><a href="#">Album Gallery</a></h3>
+                        <h3><a href="#">Sample Video</a></h3>
                         <p>Lorem ipsum dolor sit amet, consect elit, sed do eiusmod </p>
                         
                     </div>
@@ -68,10 +68,10 @@
             <div class="col-md-4 col-lg-3 col-sm-6">
                 <div class="blog-all mrg-xs">
                     <div class="blog-img">
-                        <a href="#"><img src="{{ Theme::asset   ('img/gallery/gallery.jpg') }}" alt="" ></a>
+                        <a href="#"><img src="{{ Theme::asset   ('img/video/video.jpg') }}" alt="" ></a>
                     </div>
                     <div class="blog-details gray-bg">
-                        <h3><a href="#">Album Gallery Courses</a></h3>
+                        <h3><a href="#">Sample Video Courses</a></h3>
                         <p>Lorem ipsum dolor sit amet, consect elit, sed do eiusmod </p>
                         
                     </div>
@@ -80,10 +80,10 @@
             <div class="col-md-4 col-lg-3 col-sm-6">
                 <div class="blog-all mrg-xs">
                     <div class="blog-img">
-                        <a href="#"><img src="{{ Theme::asset   ('img/gallery/gallery.jpg') }}" alt="" ></a>
+                        <a href="#"><img src="{{ Theme::asset   ('img/video/video.jpg') }}" alt="" ></a>
                     </div>
                     <div class="blog-details gray-bg">
-                        <h3><a href="#">Album Gallery</a></h3>
+                        <h3><a href="#">Sample Video</a></h3>
                         <p>Lorem ipsum dolor sit amet, consect elit, sed do eiusmod </p>
                         
                     </div>
@@ -92,10 +92,10 @@
             <div class="col-md-4 col-lg-3 col-sm-6">
                 <div class="blog-all mrg-xs">
                     <div class="blog-img">
-                        <a href="#"><img src="{{ Theme::asset   ('img/gallery/gallery.jpg') }}" alt="" ></a>
+                        <a href="#"><img src="{{ Theme::asset   ('img/video/video.jpg') }}" alt="" ></a>
                     </div>
                     <div class="blog-details gray-bg">
-                        <h3><a href="#">Album Gallery Courses</a></h3>
+                        <h3><a href="#">Sample Video Courses</a></h3>
                         <p>Lorem ipsum dolor sit amet, consect elit, sed do eiusmod </p>
                         
                     </div>

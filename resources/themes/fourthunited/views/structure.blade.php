@@ -5,7 +5,7 @@
         <section class="about-area pt-100">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-md-12 col-sm-12">
                         <div class="about-text">
                             <h2>Welcome To Dream University</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco la nisi ut aliquip ex ea commodo consequat.variations of passages </p>
@@ -18,11 +18,6 @@
                             <a class="button extra-small mb-20" href="#" tabindex="0">
                                 <span>Learn Now</span>
                             </a>
-                        </div>
-                    </div>
-                    <div class="col-md-6 mb-60 mrg-btm-about col-sm-6">
-                        <div class="book-img">
-                            <img alt="#" src="{{ Theme::asset('img/banner/1.png')}}" >
                         </div>
                     </div>
                 </div>

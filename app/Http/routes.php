@@ -35,6 +35,9 @@ Route::get( 'event_detail', ['as' => 'event_detail',     	'uses' => 'FrontContro
 Route::get( 'career', 		['as' => 'career',     			'uses' => 'FrontController@career']);
 Route::get( 'career_detail', ['as' => 'career_detail',     	'uses' => 'FrontController@career_detail']);
 Route::get( 'album', 		['as' => 'album',     			'uses' => 'FrontController@album']);
+Route::get( 'video', 		['as' => 'video',     			'uses' => 'FrontController@video']);
+Route::get( 'organizer', ['as' => 'organizer',     	'uses' => 'FrontController@organizer']);
+Route::get( 'organization_structure', 		['as' => 'organization_structure',     			'uses' => 'FrontController@organization_structure']);
 
 /* Default restful route laravel*/
 Route::resource('front', 'FrontController');

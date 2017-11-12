@@ -20,13 +20,13 @@
                                             <li>
                                                 <a href="#">
                                                     <i class="icofont icofont-envelope"></i>
-                                                    devitmes@gmail.com
+                                                    murtala92@gmail.com
                                                 </a>
                                             </li>
                                             <li>
                                                 <a href="#">
                                                     <i class="icofont icofont-location-pin"></i>
-                                                    Dev Items address goes here.
+                                                    Murtala address goes here.
                                                 </a>
                                             </li>
                                         </ul>
@@ -90,7 +90,7 @@
                         <div class="col-md-12 text-center">
                             <div class="footer-bottom-text ptb-20">
                                 <p>
-                                    Copyrights © <a href="http://bootexperts.com/" target="_blank"> 2016 Devitems</a>
+                                    Copyrights © <a href="http://bootexperts.com/" target="_blank"> 2017 Murtala Corp</a>
                                 </p>
                             </div>
                         </div>

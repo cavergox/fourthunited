@@ -166,6 +166,22 @@ class FrontController extends Controller
         return view(strtolower($page_title), compact('page_title','breadcrumbs'));
     }
 
+    /* video */
+    public function video()
+    {
+        // Load Theme
+        Theme::init($this->theme);
+        // Page Title & Description
+        $page_title = "Video";
+        $page_description = "This is ".$page_title." page";
+        // SEO
+        $this->_seo($page_title,$page_description);
+        // Breadcrumb
+        $breadcrumbs = $this->_breadcrumbs($page_title);
+        // Load View
+        return view(strtolower($page_title), compact('page_title','breadcrumbs'));
+    }
+
     /* career */
     public function career()
     {
@@ -205,6 +221,38 @@ class FrontController extends Controller
         Theme::init($this->theme);
         // Page Title & Description
         $page_title = "Contact";
+        $page_description = "This is ".$page_title." page";
+        // SEO
+        $this->_seo($page_title,$page_description);
+        // Breadcrumb
+        $breadcrumbs = $this->_breadcrumbs($page_title);
+        // Load View
+        return view(strtolower($page_title), compact('page_title','breadcrumbs'));
+    }
+
+    /* organizer */
+    public function organizer()
+    {
+        // Load Theme
+        Theme::init($this->theme);
+        // Page Title & Description
+        $page_title = "Organizer";
+        $page_description = "This is ".$page_title." page";
+        // SEO
+        $this->_seo($page_title,$page_description);
+        // Breadcrumb
+        $breadcrumbs = $this->_breadcrumbs($page_title);
+        // Load View
+        return view(strtolower($page_title), compact('page_title','breadcrumbs'));
+    }
+
+    /* organization_structure */
+    public function organization_structure()
+    {
+        // Load Theme
+        Theme::init($this->theme);
+        // Page Title & Description
+        $page_title = "Organization_structure";
         $page_description = "This is ".$page_title." page";
         // SEO
         $this->_seo($page_title,$page_description);

@@ -110,7 +110,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="news-are mrg-xs">
                     <div class="news-img">
-                        <img src="{{ Theme::asset('img/blog/26.jpg') }}"" alt="" >
+                        <img src="{{ Theme::asset('img/blog/8.jpg') }}"" alt="" >
                         <div class="news-date navy-bg">
                             <div class="blog-meta-2">
                                 <span class="published3">
@@ -144,7 +144,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="news-are mrg-xs">
                     <div class="news-img">
-                        <img src="{{ Theme::asset('img/blog/27.jpg') }}"" alt="" >
+                        <img src="{{ Theme::asset('img/blog/9.jpg') }}"" alt="" >
                         <div class="news-date navy-bg">
                             <div class="blog-meta-2">
                                 <span class="published3">
@@ -178,7 +178,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="news-are mrg-xs">
                     <div class="news-img">
-                        <img src="{{ Theme::asset('img/blog/28.jpg') }}"" alt="" >
+                        <img src="{{ Theme::asset('img/blog/10.jpg') }}"" alt="" >
                         <div class="news-date navy-bg">
                             <div class="blog-meta-2">
                                 <span class="published3">
@@ -212,7 +212,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="news-are mrg-xs mrg-news">
                     <div class="news-img">
-                        <img src="{{ Theme::asset('img/blog/29.jpg') }}"" alt="" >
+                        <img src="{{ Theme::asset('img/blog/8.jpg') }}"" alt="" >
                         <div class="news-date navy-bg">
                             <div class="blog-meta-2">
                                 <span class="published3">
@@ -246,7 +246,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="news-are mrg-xs mrg-news">
                     <div class="news-img">
-                        <img src="{{ Theme::asset('img/blog/30.jpg') }}"" alt="" >
+                        <img src="{{ Theme::asset('img/blog/9.jpg') }}"" alt="" >
                         <div class="news-date navy-bg">
                             <div class="blog-meta-2">
                                 <span class="published3">
@@ -280,7 +280,7 @@
             <div class="col-md-4 hidden-sm">
                 <div class="news-are mrg-xs mrg-news2">
                     <div class="news-img">
-                        <img src="{{ Theme::asset('img/blog/31.jpg') }}"" alt="" >
+                        <img src="{{ Theme::asset('img/blog/10.jpg') }}"" alt="" >
                         <div class="news-date navy-bg">
                             <div class="blog-meta-2">
                                 <span class="published3">

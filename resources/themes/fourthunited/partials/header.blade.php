@@ -21,7 +21,7 @@
                                     <li>
                                         <a href="#">
                                             <i class="icofont icofont-envelope"></i>
-                                            devitmes@gmail.com
+                                            murtala92@gmail.com
                                         </a>
                                     </li>
                                 </ul>
@@ -66,7 +66,12 @@
                                 <nav>
                                     <ul>
                                         <li><a href="{{ url('home') }}">Home </a></li>
-                                        <li><a href="{{ url('about') }}">About Us  </a></li>
+                                        <li class="coloumn-one"><a href="{{ url('about') }}">About Us <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                                            <ul>
+                                                <li><a href="{{ url('organization_structure') }}">Organization Structure  </a></li>
+                                                <li><a href="{{ url('organizer') }}">Organizer  </a></li>
+                                            </ul>
+                                        </li>
                                         <li><a href="{{ url('member') }}">Member  </a></li>
                                         <li><a href="{{ url('blog') }}">Blog  </a></li>
                                         <li><a href="{{ url('event') }}">Event  </a></li>

@@ -27,6 +27,10 @@
     <link rel="stylesheet" href="{{ Theme::asset('css/color/color-1.css') }}">
     <!-- Modernizr JS -->
     <script src="{{ Theme::asset('js/vendor/modernizr-2.8.3.min.js') }}"></script>
+
+    <!-- Custom CSS-->
+    <link rel="stylesheet" href="{{ Theme::asset('css/custom.css') }}">
+
 </head>
 
 <body>
@@ -68,7 +72,7 @@
     <!-- Main js file that contents all jQuery plugins activation. -->
     <!-- google map api
     ============================================ -->
-    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD_qDiT4MyM7IxaGPbQyLnMjVUsJck02N0"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD_qDiT4MyM7IxaGPbQyLnMjVUsJck02N0"></script>
     <script>
         var myCenter=new google.maps.LatLng(30.249796, -97.754667);
         function initialize()
@@ -98,7 +102,7 @@
             marker.setMap(map);
         }
         google.maps.event.addDomListener(window, 'load', initialize);
-    </script> -->
+    </script>
 
 </body>
 
